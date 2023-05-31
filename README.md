@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter Tran
 - 👀 I’m interested in gaming, traveling, photography, and coding
-- 🌱 I’m currently learning C++ and Swift
+- 🌱 I’m currently learning C++, Python, and Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
