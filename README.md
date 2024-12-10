@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter Tran
-- 👀 I’m interested in gaming, traveling, photography, and coding
-- 🌱 I’m currently learning fullstack development
+- 👀 Just a very normal person trying to understand the world
+- 🌱 I’m currently learning full-stack development and AI integration
 
 <!---
 khoitran590/khoitran590 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
