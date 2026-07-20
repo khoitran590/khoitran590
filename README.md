@@ -4,7 +4,7 @@
 
 - 🌱 Currently learning **full-stack development** and **AI integration**
 - 📱 Building for the web *and* iOS
-- 💼 Portfolio: [PeterTranPortfolio](https://github.com/khoitran590/PeterTranPortfolio)
+- 💼 Portfolio: [Peter Tran Portfolio](https://petertran.vercel.app/)
 
 ---
 
